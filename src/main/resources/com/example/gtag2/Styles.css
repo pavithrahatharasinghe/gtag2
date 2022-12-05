@@ -1,0 +1,30 @@
+.root{
+    -fx-background-color:#012030;
+    -fx-font-family: "Press-Start-2P";
+
+}
+.menuitem{
+
+-fx-text-fill:#FFFFFF;
+}
+
+.label{
+
+ -fx-text-fill:#FFFFFF;
+
+}
+
+.button {
+    -fx-border-radius: 30px;
+    -fx-text-fill:#FFFFFF;
+
+     -fx-background-color: #13678A;
+}
+
+
+.button:hover {
+
+
+     -fx-background-color: #45C4B0;
+}
+

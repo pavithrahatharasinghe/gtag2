@@ -21,16 +21,16 @@ public class GLA {
 
 
         GLA gla = new GLA();
-        System.out.println("Searching...");
-        long startMs = System.currentTimeMillis();
-        System.out.println(gla.search(search).getHits().get(0).fetchLyrics());
+        //System.out.println("Searching...");
+        //long startMs = System.currentTimeMillis();
+        //System.out.println(gla.search(search).getHits().get(0).fetchLyrics());
 
 
 
 
 
 
-        System.out.println(System.currentTimeMillis() - startMs + "ms");
+        //System.out.println(System.currentTimeMillis() - startMs + "ms");
     }
 
 }

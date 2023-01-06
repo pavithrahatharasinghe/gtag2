@@ -251,7 +251,8 @@ public class GTagController implements Initializable {
                         id3v24Tag.setAlbumImage(data, "image/jpeg");
                     } catch (IOException e) {
                     }
-                } else {
+                }
+                else {
 
 
                     id3v24Tag.setAlbumImage(imageData, "image/jpeg");
